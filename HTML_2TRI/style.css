@@ -1,9 +1,14 @@
-:root{
-    --cor--de--fundo:#022149;
-    --branco: #ffffff;
-    --laranja: #eb9800;
-    --azul-degrade:linear-grandient(97.54deg, #002f52 35.49%, #326589 165%);
-    --fonte-principal:'poppins';
-    --azul: #0400ff;
+:root {
+ --cor-de-fundo:#2c58af;
+--branca: #f0e4e4;
+--laranja: #dd7c0d;
+--azul-degrade: linear-gradiente(97.54deg.)
+--fonte-principal: "poppins";
+--azul:#002f52;
+
+
 
 }
+boddy( 
+       background-color: var (--cor-de-fundo)
+)
